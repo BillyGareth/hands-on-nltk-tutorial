@@ -3,7 +3,7 @@
 # Hands-On NLTK Tutorial
 > The hands-on NLTK tutorial in the form of Jupyter notebooks
 
-NLTK is one of the most popular Python packages for Natural Language Processing (NLP).
+NLTK{Natural Language ToolKit} is one of the most popular Python packages for Natural Language Processing (NLP).
 
 ## Index of Jupyter Notebooks
 |Notebooks|
